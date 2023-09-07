@@ -1,0 +1,14 @@
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\bin\Debug\CashRegister1.exe.config
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\bin\Debug\CashRegister1.exe
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\bin\Debug\CashRegister1.pdb
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\obj\Debug\CashRegister1.csproj.AssemblyReference.cache
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\obj\Debug\CashRegister1.Form1.resources
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\obj\Debug\CashRegister1.Properties.Resources.resources
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\obj\Debug\CashRegister1.csproj.GenerateResource.cache
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\obj\Debug\CashRegister1.csproj.CoreCompileInputs.cache
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\obj\Debug\CashRegister1.csproj.CopyComplete
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\obj\Debug\CashRegister1.exe
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\obj\Debug\CashRegister1.pdb
+C:\Users\Mourad\source\repos\CashRegister1\CashRegister1\obj\Debug\CashRegister1.Login.resources
